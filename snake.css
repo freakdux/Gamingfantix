@@ -1,0 +1,20 @@
+body{
+    font-famly: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#h1{
+    background-color: slategrey;
+}
+#poster{
+    /* background-color: black; */
+    opacity: 0.5;
+    display: block;
+    align-items: center;
+    width: 50%;
+    height: 50%;
+    border-radius: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    object-fit: scale-down;
+}
